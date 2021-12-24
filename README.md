@@ -1,2 +1,2 @@
-# arraseinobabis-app
+# arraseinobabis-api
 Karaokê em casa
